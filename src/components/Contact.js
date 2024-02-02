@@ -14,15 +14,15 @@ const Contact = () => {
          
       <div className='duni'>
       <img src={octv} style={{width:'200px'}}/>
-      <a href='octave-nine.vercel.app'>Octave</a>
+      <a href='https://octave-nine.vercel.app/'>Octave</a>
      <img src={tiktak} style={{width:'150px'}}/>
-      <a href='tik-tak-toe-game-ahmad.vercel.app'>Game</a>
+      <a href='https://tik-tak-toe-game-ahmad.vercel.app/'>Game</a>
       <img src={quizApp} style={{width:'150px'}}/>
-      <a href='quiz-app-nine-livid.vercel.app'>Quiz</a>
+      <a href='https://quiz-app-nine-livid.vercel.app/'>Quiz</a>
       <img src={country} style={{width:'150px'}}/>
-      <a href='api4countries.vercel.app'>CountryFlags</a>
+      <a href='https://api4countries.vercel.app/'>CountryFlags</a>
       <img src={grade} style={{width:'180px'}}/>
-      <a href='grading-system-six.vercel.app'>StudentGrade</a>
+      <a href='https://grading-system-six.vercel.app/'>StudentGrade</a>
 
 
       </div>
