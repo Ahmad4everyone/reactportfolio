@@ -1,0 +1,202 @@
+.ola{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(0deg, #ecaf7a, #e81607);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: white;
+}
+
+
+.img1{
+    width: 250px;
+    border-radius: 20px;
+}
+.h1st{
+    color: teal;
+    
+}
+.div2{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(0deg, #ef6500, rgba(0,0,225,0.5));
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: white;
+}  
+
+
+.str{
+     text-align: start;
+}
+
+.ded{
+    width: 180px;
+    margin-left: 200px;
+  
+}
+.dee{
+    width: 150px;
+}
+.ddd{
+    width: 120px;
+    margin-left: 200px;
+  
+}
+.jvt{
+    width: 180px; 
+}
+.rct{
+    width: 190px;
+    margin-left: 200px;
+    
+}
+.fgm{
+    width: 130px;
+    
+}
+.duni{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(0deg, red, gold);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: white;
+}
+.duni{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+img{
+    margin-left: 400px;
+}
+a{
+    text-decoration: none;
+    font-weight: 600;
+}
+@media(max-width: 768px){
+    .img1{
+        width: 250px;
+        border-radius: 20px;
+        margin: 0 auto;
+    }
+    .sec{
+        display: grid;
+        grid-template-columns: repeat(2, ifr);
+        gap: 20px;
+    }
+    .str{
+        font-weight: 400;
+    }
+    .ded{
+        width: 250px;
+        margin-left: 250px;
+      }
+      .dee{
+        width: 250px;
+        margin-left: 250px;
+    }
+    .ddd{
+        width: 250px;
+        margin-left: 250px;
+        
+    }
+    .jvt{
+        width: 220px;
+        margin-left: 250px;
+        
+        
+    }
+    .rct{
+        width: 250px;
+        margin-left: 250px;
+        
+    }
+    .fgm{
+        width: 250px;
+        margin-left: 250px;
+       
+    }
+    .duni{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    img{
+        margin-left: 100px;
+    }
+    a{
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+}
+
+@media(max-width: 450px){
+    .img1{
+    width: 220px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+    .str{
+        font-weight: 100;
+
+    }
+    .sec{
+        display: grid;
+        grid-template-columns: repeat(1, ifr);
+        gap: 20px;
+        
+       }
+    .ded{
+        width: 180px;
+        margin-left: 100px;
+    }
+    .dee{
+        width: 150px;
+        margin-left: 100px;
+    }
+    .ddd{
+        width: 150px;
+        margin-left: 95px;
+    }
+    .jvt{
+        width: 180px;
+        margin-left: 95px;
+        
+    }
+    .rct{
+        width: 200px;
+        margin-left: 85px;
+        
+    }
+    .fgm{
+        width: 170px;
+        margin-left: 85px;
+        
+    }
+    .duni{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+
+    a{
+        text-decoration: none;
+        font-weight: 600;
+    }
+}
+
