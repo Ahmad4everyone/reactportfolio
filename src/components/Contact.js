@@ -13,7 +13,7 @@ const Contact = () => {
     <div >
          
       <div className='duni'>
-      <img src={octv} style={{width:'200px'}}/>
+      <img src={octv} style={{width:'150px'}}/>
       <a href='https://octave-nine.vercel.app/'>Octave</a>
      <img src={tiktak} style={{width:'150px'}}/>
       <a href='https://tik-tak-toe-game-ahmad.vercel.app/'>Game</a>
@@ -21,7 +21,7 @@ const Contact = () => {
       <a href='https://quiz-app-nine-livid.vercel.app/'>Quiz</a>
       <img src={country} style={{width:'150px'}}/>
       <a href='https://api4countries.vercel.app/'>CountryFlags</a>
-      <img src={grade} style={{width:'180px'}}/>
+      <img src={grade} style={{width:'150px'}}/>
       <a href='https://grading-system-six.vercel.app/'>StudentGrade</a>
 
 

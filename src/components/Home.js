@@ -2,7 +2,6 @@ import React from 'react'
 import AhmadPhoto from '../image/AhmadPhoto.JPG'
 import PortFolio from '../components/PortFolio.css'
 
-
 const Home = () => {
   return (
     <div className='ola'>
