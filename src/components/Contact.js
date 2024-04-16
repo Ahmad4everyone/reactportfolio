@@ -13,7 +13,7 @@ const Contact = () => {
     <div >
          
       <div className='duni'>
-        <p style={{color:'white', fontWeight:'bold'}}>Click the name below the images!</p>
+        <p className='parag'>Click the name below the images!</p>
       <img src={octv} style={{width:'150px'}}/>
       <a href='https://octave-nine.vercel.app/'>Octave</a>
      <img src={tiktak} style={{width:'150px'}}/>

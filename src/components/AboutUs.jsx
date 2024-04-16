@@ -12,7 +12,7 @@ const AboutUs = () => {
   return (
     <div className='div2'>
      <h2 className='str'>
-      I am interested in IT and everything around it, I am courteous and enthusistic and keenly ready to gain more experience in the field, and for this reason, i am looking for a company willing to offer me a placement amongst their developers, in return, i would offer my full commitment, and be a pleasant and a friendly addition to the team. I am therefore looking for a job or an internship as a frontend developer in your reputable organisation.
+      I am interested in IT and everything around it, I am courteous,enthusiastic and keenly ready to gain more experience in the field, and for this reason, i am looking for a company willing to offer me a placement amongst their developers, in return, i would offer my full commitment, and be a pleasant and a friendly addition to the team. I am therefore looking for a job or an internship as a frontend developer in your reputable organisation.
      </h2>
      <h1 className='h32nd'>Skills!</h1>
      <section className='sec'>
