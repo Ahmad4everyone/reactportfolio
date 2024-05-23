@@ -1,9 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .ola{
     position: relative;
     margin: auto;
     width: 100%;
-    height: 600px;
-    background: linear-gradient(0deg, #ecaf7a, #e81607);
+    height: 100vh;
+    background: linear-gradient( blue, #e81607);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -28,8 +34,8 @@
     position: relative;
     margin: auto;
     width: 100%;
-    height: 600px;
-    background: linear-gradient(0deg, #ef6500, rgba(0,0,225,0.5));
+    height: 100vh;
+    background: linear-gradient( wheat, rgba(0,0,225,0.5));
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -40,6 +46,7 @@
 
 .str{
      text-align: start;
+     font-size: 35px;
 }
 
 .ded{
@@ -71,8 +78,8 @@
     position: relative;
     margin: auto;
     width: 100%;
-    height: 600px;
-    background: linear-gradient(0deg, red, gold);
+    height: 100vh;
+    background: linear-gradient(lime, gold);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -156,10 +163,19 @@ a{
 }
 
 @media(max-width: 450px){
+    .h1st{
+        font-size: 30px;
+        color: black;
+
+    }
+    .h31st{
+        color: whitesmoke;
+    }
     .img1{
     width: 220px;
     border-radius: 20px;
     margin: 0 auto;
+    margin-top: 20px;
 }
     .str{
         font-weight: 100;
@@ -207,6 +223,10 @@ a{
     a{
         text-decoration: none;
         font-weight: 600;
+    }
+    p{
+        margin-top: 30px;
+        font-size: 20px;
     }
 }
 

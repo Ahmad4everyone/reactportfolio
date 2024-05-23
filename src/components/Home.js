@@ -11,7 +11,7 @@ const Home = () => {
         <div id='new'>
         <p style={{color:'white'}}>E-mail: ahmadmut24@gmail.com</p>
         <p style={{color:'white'}}>Github: Ahmad4everyone</p>
-        <p style={{color:'white'}}>Phone: 09042567079,08133275988</p>
+        <p style={{color:'white'}}>Phone: +2348133275988</p>
         </div>
         
         
