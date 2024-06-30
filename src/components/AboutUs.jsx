@@ -11,11 +11,20 @@ import Fgma from '../image/Fgma.JPG'
 const AboutUs = () => {
   return (
     <div className='div2'>
-     <h2 className='str'>
-      I am interested in IT and everything around it, I am courteous,enthusiastic and keenly ready to gain more experience in the field, and for this reason, i am looking for a company willing to offer me a placement amongst their developers, in return, i would offer my full commitment, and be a pleasant and a friendly addition to the team. I am therefore looking for a job or an internship as a frontend developer in your reputable organisation.
-     </h2>
+     <h3 className='str'>
+    Hello! I'm Ridwan, a driven and enthusiastic rontend developer with a passion for creating innovative solutions.I recently completed my internship at the Oyo State Government's Management Information Centre in Ibadan,Nigeria.Where i gained valuable experiences. <br></br>This internship not only deepened my technical skills but also instilled in me the importance of effective communication,adaptability, and problem-solving in a fast-paced enviroment.
+     </h3>
+     <hr></hr>
+    
      <h1 className='h32nd'>Skills!</h1>
-     <section className='sec'>
+    <ul>
+      <li><h1>HTML</h1></li>
+      <li><h1>CSS</h1></li>
+      <li><h1>BOOSTRAP</h1></li>
+      <li><h1>JAVASCRIPT</h1></li>
+      <li><h1>REACT</h1></li>
+    </ul>
+     {/* <section className='sec'>
       <img src={Mark} className='ded'/>
       <img src={Boostrap} className='dee'/>
       <img src={Cascade} className='ddd'/>
@@ -23,7 +32,7 @@ const AboutUs = () => {
       <img src={RctImg} className='rct'/>
       <img src={Fgma} className='fgm'/>
 
-     </section>
+     </section> */}
 
     </div>
   )
