@@ -42,6 +42,9 @@
     overflow-x: hidden;
     background-color: white;
 }  
+#new{
+    line-height: 40px;
+}
 
 
 .str{
