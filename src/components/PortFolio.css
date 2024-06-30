@@ -46,7 +46,9 @@
     line-height: 40px;
 }
 
-
+.h32nd ul{
+    line-height: 20px;
+}
 .str{
      text-align: start;
      font-size: 35px;

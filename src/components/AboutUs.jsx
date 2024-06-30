@@ -12,7 +12,7 @@ const AboutUs = () => {
   return (
     <div className='div2'>
      <h3 className='str'>
-    Hello! I'm Ridwan, a driven and enthusiastic rontend developer with a passion for creating innovative solutions.I recently completed my internship at the Oyo State Government's Management Information Centre in Ibadan,Nigeria.Where i gained valuable experiences. <br></br>This internship not only deepened my technical skills but also instilled in me the importance of effective communication,adaptability, and problem-solving in a fast-paced enviroment.
+    Hello! I'm Ridwan, a driven and enthusiastic rontend developer with a passion for creating innovative solutions.I recently completed my internship at the <b>Oyo State Government's Management Information Centre in Ibadan,Nigeria.</b>Where i gained valuable experiences. <br></br>This internship not only deepened my technical skills but also instilled in me the importance of effective communication,adaptability, and problem-solving in a fast-paced enviroment.
      </h3>
      <hr></hr>
     
